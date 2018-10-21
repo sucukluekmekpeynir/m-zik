@@ -1,5 +1,5 @@
 {
-  "name": "müzikbotu",
+  "name": "Kralbot",
   "version": "0.2.6",
   "description": "müzik botu",
   "main": "server.js",
